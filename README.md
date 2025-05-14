@@ -1,1 +1,6 @@
 # E-commerce-web-based-store
+<<<<<<< HEAD
+Your local changes...
+=======
+Changes from GitHub...
+>>>>>>> FETCH_HEAD
